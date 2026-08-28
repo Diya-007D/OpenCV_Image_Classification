@@ -83,4 +83,4 @@ The Program displays:
 
 **Diya Dileep**
 BCA Student | Kristu Jyoti College of Management and Technology
-This project demonstrates image classification using OpenCV and SVM.
+This project demonstrates image classification using OpenCV and SVM!!
