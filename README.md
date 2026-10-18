@@ -82,4 +82,5 @@ The Program displays:
 ## Author 
 
 **Diya Dileep**
+
 This project demonstrates image classification using OpenCV and SVM!!
